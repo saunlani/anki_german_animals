@@ -68,7 +68,7 @@ The deck is generated using a Python script that:
 ## 📦 Using the Deck
 
 To use the deck:
-1. Download the `anki_german_animals.apkg` file (see [Releases](https://github.com/saunlani/anki_german_animals/))  
+1. Download the `anki_german_animals.apkg` file (see [Releases](https://github.com/saunlani/anki_german_animals/releases/latest))  
 2. Import it into Anki  
 3. Start reviewing!
 
